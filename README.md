@@ -75,7 +75,7 @@ The outliers in the dataset showed justifiable behaviour. The outliers were eith
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikdhande007?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkZOJNFFDRxq9UghIZcfaTA%3D%3D)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranav4536)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikDhande007)
 
 
 
